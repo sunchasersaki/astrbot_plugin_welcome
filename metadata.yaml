@@ -3,4 +3,4 @@ display_name: 入群欢迎 # 用于展示的名字，可以是方便人类阅读
 desc: 一个简单的入群欢迎插件。 # 插件简短描述
 version: v1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Sunchaser # 作者
-repo: https://github.com/sunchasersaki/astrbot_plugin_welcome.git # 插件的仓库地址
+repo: sunchasersaki/astrbot_plugin_welcome # 插件的仓库地址
